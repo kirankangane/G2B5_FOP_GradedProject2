@@ -20,7 +20,7 @@ public class Main {
 		System.out.println(hrDept.departmentName());
 		System.out.println(hrDept.getTodaysWork());
 		System.out.println(hrDept.getWorkDeadline());
-		System.out.println(hrDept.doActivity("team Lunch"));
+		System.out.println(hrDept.doActivity());
 		System.out.println(hrDept.isTodayAHoliday());
 		System.out.println();
 
