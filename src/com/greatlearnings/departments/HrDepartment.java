@@ -16,7 +16,7 @@ public class HrDepartment extends SuperDepartment {
 		return "Complete by EOD";
 	}
 
-	public String doActivity(String activity) {
+	public String doActivity() {
 		return "team Lunch";
 	}
 
